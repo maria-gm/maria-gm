@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hola, soy María 👋
 
-<!--
-**maria-gm/maria-gm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de último curso del Grado en Estadística, con interés en la Ciencia de Datos aplicada a problemas reales y con impacto social.
+Me interesa especialmente el uso responsable de la inteligencia artificial, el análisis de datos y la automatización de procesos para mejorar la toma de decisiones.
 
-Here are some ideas to get you started:
+### 🧠 Intereses
+- Ciencia de Datos
+- IA responsable
+- Automatización
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías
+- Python (pandas, numpy, scikit-learn)
+- SQL básico
+- Java 
+- Git
+- Herramientas low-code
+
+### 📌 Proyectos
+En este perfil comparto proyectos académicos, de trabajo y personales. 
+Los proyectos de trabajo son privados pero incluí un enlace a la demo-.
+
+### 📫 Contacto
+- LinkedIn: www.linkedin.com/in/maria-gordo-martín-511411355
