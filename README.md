@@ -16,8 +16,7 @@ Me interesa especialmente el uso responsable de la inteligencia artificial, el a
 - Herramientas low-code
 
 ### 📌 Proyectos
-En este perfil comparto proyectos académicos, de trabajo y personales. 
-Los proyectos de trabajo son privados pero incluí un enlace a la demo-.
+En este perfil comparto proyectos académicos y personales. 
 
 ### 📫 Contacto
 - LinkedIn: www.linkedin.com/in/maria-gordo-martín-511411355
