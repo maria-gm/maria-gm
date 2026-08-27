@@ -1,6 +1,6 @@
 # Hola, soy María 👋
 
-Estudiante de último curso del Grado en Estadística, con interés en la Ciencia de Datos aplicada a problemas reales y con impacto social.
+Estudiante del máster en Análisis de Datos, con interés en la Ciencia de Datos aplicada a problemas reales y con impacto social.
 Me interesa especialmente el uso responsable de la inteligencia artificial, el análisis de datos y la automatización de procesos para mejorar la toma de decisiones.
 
 ### 🧠 Intereses
